@@ -34,7 +34,7 @@ Before I began with some of the more complex analysis, I first wanted to start o
 In R, the code looks like this:
 ```
 #############################################################
-################# Mulit Lin Reg  ##########################
+################# Multi Linear Reg  #########################
 #############################################################
 lm.data <-  select(.data = results,c("TimeOfDay","Sum_Steps","Avg_BPM","Min_BPM","Max_BPM","StdDev_BPM","Sum_Calories_Burnt","Sum_Distance_Traveled","Std_Dev_Lag1","Avg_Glucose_Value_Lag_1","Calories_Burnt_Lag1","Avg_BPM_Lag1","LowOccurance_Lag1","HighOccurance_Lag1","BG_rate_of_change_Lag1","Max_BPM_Lag1", "Avg_Glucose_Value"))
 set.seed(1)

@@ -4,7 +4,7 @@ title: Photography
 logo: "profpic.jpg"
 ---
 
-There's more to life than just a career! One of my favoirte hobbies is landscape photography. I'm grateful I get to share with you some of the adventures I've been on and the images I've been able to capture.
+There's more to life than just a career! One of my favorite hobbies is landscape photography. I'm grateful I get to share with you some of the adventures I've been on and the images I've been able to capture.
 
 #### The Chocolate Hills in the Bohol province of the Philippines
 ![](/assets/Philippines2.jpg)
