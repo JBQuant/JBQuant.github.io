@@ -20,11 +20,16 @@ The Chocolate Hills are one of the most spectacular sights I've ever seen. As th
 #### Some shots around Richmond
 ![](/assets/richmond.jpg)
 The Church Hill Overlook 
-![](/assets/bridge2.jpg)
+![](/assets/bridge2.jpg)  
+
 ![](/assets/Philippines6.jpg)
-Storm rolling in at Malvern Hill Battlefield. One of the craziest weather events I've ever witnessed.
+Storm rolling in at Malvern Hill Battlefield. One of the craziest weather events I've ever witnessed.  
+![](/assets/Philippinesboat.jpg)  
 #### Our puppy Sherlock at around 9 weeks old
-![](/assets/sherlock1.jpg)
-![](/assets/sherlock2.jpg)
-![](/assets/sherlock3.jpg)
-![](/assets/sherlock4.jpg)
+![](/assets/sherlock1.jpg)  
+
+![](/assets/sherlock2.jpg)  
+
+![](/assets/sherlock3.jpg)  
+
+![](/assets/sherlock4.jpg)  
