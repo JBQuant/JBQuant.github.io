@@ -9,8 +9,8 @@ actions:
 
 
 c: 571-278-8564     
-e: jjbourne@email.wm.edu      
-w: linkedin.com/in/jeremybourne   
+e: jjbourne712@gmail.com     
+w: [linkedin.com/in/jeremybourne] (https://www.linkedin.com/in/jeremybourne/)     
 ____________________________________________________________________________
 
 ### Summary:
@@ -27,10 +27,14 @@ Bachelor of Science in Business Administration, Finance; Minor in Communication 
 Maastricht, The Netherlands
 
 ### Relevant Data Analysis Projects:  
-**Predictive Analytics to Manage Type I Diabetes:** Gathered over 10,000 hours of my personal health data using a Dexcom CGM and a Fitbit device to predict the occurrence and level of volatility in my blood glucose readings within a given hour using machine learning algorithms such as Random Forest and Adaptive Boosting with predictor variables such as hourly activity, steps, and heart rate data   
-**Langley Federal Credit Union Capstone Project:** Analyzed $1.4 billion in auto loans to develop risk-based pricing model and utilized machine learning and analytics techniques including clustering, decision trees, and portfolio optimization to address a business need using a combination of Tableau, R, and Python  
+**Predictive Analytics to Manage Type I Diabetes:** Gathered over 10,000 hours of my personal health data using a Dexcom CGM and a Fitbit and used the collected data set to predict 
+the occurrence of a low blood glucose readings within a given hour using machine learning algorithms such as Random Forest and Adaptive Boosting by using predictive dependent variables 
+such as hourly activity, steps, and heart rate data   
+**Langley Federal Credit Union Capstone Project:** Analyzed $1.4 billion in auto loans to develop risk-based pricing model and utilized machine learning and analytics techniques 
+including clustering, decision trees, and portfolio optimization to address a business need using a combination of Tableau, R, and Python  
 **Bon Secours Healthcare Project:** Extracted, transformed, and loaded data into a DBMS tool (SQL) and completed a comprehensive review of CMS data to provide insights about insurance claims drivers  
-**Kickstarter Project:** Used statistical learning models such as LDA, QDA, Logistic Regression, and Random Forest to predict the success of Kickstarter campaigns and tested the significance of various independent variables
+**Kickstarter Project:** Used statistical learning models such as LDA, QDA, Logistic Regression, and Random Forest to predict the success of Kickstarter campaigns and tested the 
+significance of various independent variables
 
 ### Relevant Coursework:  
 Optimization ∙ Machine Learning I & II ∙ Artificial Intelligence ∙ Risk Management ∙ Portfolio Management ∙ Big Data ∙ Data Visualization ∙ Public Speaking ∙ Database Management ∙ Intermediate Corporate Finance ∙ Financial Institutions ∙ Intermediate Probability and Statistics ∙ Principles of Accounting I & II ∙ Software Packages & Business Applications ∙ 
