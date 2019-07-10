@@ -10,7 +10,7 @@ actions:
 
 c: 571-278-8564     
 e: jjbourne712@gmail.com     
-w: [linkedin.com/in/jeremybourne] (https://www.linkedin.com/in/jeremybourne/)     
+w: [linkedin.com/in/jeremybourne](https://www.linkedin.com/in/jeremybourne/)     
 ____________________________________________________________________________
 
 ### Summary:
