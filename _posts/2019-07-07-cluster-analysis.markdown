@@ -23,7 +23,7 @@ are really a good option because Amazon doesn't compete in just ONE industry. It
 combination of companies thereof.  
 
 My proposed solution to this problem is to do some data-mining and allow the data to speak for itself. 
-![right-aligned-image](\assets\clusplot.jpeg){: .align-right}
+![](\assets\clusplot.jpeg)
 Let's suppose that we have historical price data on all the S&P 500 constituents in the following format:  
 
 Date | prices
