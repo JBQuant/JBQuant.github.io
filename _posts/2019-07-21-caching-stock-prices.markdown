@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Caching Historical Equity Prices
+title: Downloading Historical Security Prices
 date:   2019-07-21 21:31:09 -0400
 feature_image: "/assets/bridge.jpg"
 categories: jekyll update
@@ -45,3 +45,5 @@ create_price_dir <- function(labels, start_date=Sys.Date()-365, end_date=Sys.Dat
 }
 
 ```
+...and there you have it!
+[](\assets\cache_folder.PNG)
