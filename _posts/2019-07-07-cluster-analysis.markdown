@@ -23,7 +23,7 @@ are really a good option because Amazon doesn't compete in just ONE industry. It
 combination of companies thereof.  
 
 My proposed solution to this problem is to do some data-mining and allow the data to speak for itself. 
-
+![right-aligned-image](\assets\clusplot.jpeg){: .align-right}
 Let's suppose that we have historical price data on all the S&P 500 constituents in the following format:  
 
 Date | prices
@@ -88,10 +88,12 @@ my_clusters$clustering
 plot(final.df.clean[,3:4],col=rainbow_hcl(max(my_clusters$clustering))[my_clusters$clustering],main="k-Medoids Clusters")
 points(my_clusters$medoids,pch=19,cex=1.5,col="navyblue")
 ```
-If we isolate just two of the periods, we can get a closer look at how the various securities were grouped.  
+If we isolate just two of the periods, we can get a closer look at how the various securities were grouped.
+Each of these points represents one of the securities and each of the navy blue dots represents the 
+k-medoid center.
 ![](\assets\k_medoid.jpeg)  
 And here is a more comprehensive version that graphs based on the Principle Components:  
 ```
 fviz_cluster(object = my_clusters[1:10], data = final.df.clean[1:10])
 ```
-![]("\assets\clusters.jpeg")
+![](\assets\clusters.jpeg)
