@@ -1,7 +1,7 @@
 ---
 layout: post
 title: K-Medoid Cluster Analysis on Equity Securities
-date:   2019-07-07 21:31:09 -0400
+date:   2019-07-20 21:31:09 -0400
 feature_image: "/assets/bridge.jpg"
 categories: jekyll update
 ---
