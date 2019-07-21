@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cluster Analysis on Equity Securities
+title: K-Medoid Cluster Analysis on Equity Securities
 date:   2019-07-07 21:31:09 -0400
 feature_image: "/assets/bridge.jpg"
 categories: jekyll update
@@ -9,16 +9,17 @@ categories: jekyll update
 If you've had the opportunity to study finance, even in the most basic college courses you learn that the 
 value of an asset is derived in part by the opportunity costs of readily available alternatives. For instance, 
 the value of a high dividend paying equity security decreases when interest rates increase. There exists this 
-inverse relationship because an investor won't have the willingness to be exposed to the risk of an equity security
+inverse relationship because a rational investor won't have the willingness to hold the risk of an equity security
 if a less-risky alternative (like fixed income) is able to provide a reasonable return. These cashflow producing
-holdings, in the marketplace, are "competing" for the same investor capital. If interest rates increase, 
-on a relaive basis, dividend paying equities become less attractive and the price subsequently decrease.  
+assets, in the marketplace, are "competing" for the same investor capital. If there is an interest rates increase, 
+on a relaive basis, dividend paying equities become less attractive and the price subsequently decreases.  
 
 The reason this is important is because one of the primary methods of estimating the instrinsic or "fair value"
-of a security is by comparing it to the value of its peers. One of the challenges that is presented by this method
-is finding pure-play comparables by which to construct the analysis. Let's say, for example, that you wanted to 
-find the most pure-play comparable to Amazon. What company would you choose? Walmart? Alibaba? Netflix? None of these 
-are really a good option because Amazon doesn't compete in just ONE industry. The correct answer would be some
+of a security is by comparing it to the value of its peers. One of the challenges when conducting this analysis
+is finding pure-play comparables by which to compare and contrast. Let's say, for example, that you wanted to 
+find the most pure-play comparable to Amazon. What company would you choose? Walmart? Alibaba? Netflix? There are good reasons
+to choose these as comps. There are legitimate reasons to do so, but none of these 
+are really a good option because Amazon doesn't compete in just ONE industry. It competes in all of them.  The correct answer would be some
 combination of companies thereof.  
 
 My proposed solution to this problem is to do some data-mining and allow the data to speak for itself. 
@@ -80,7 +81,6 @@ write.csv(x = final.df, file = "sp_annual_returns.csv")
 With this dataframe, we can run the k-medoid algorithm. 
 ```
 k <- 12
-na.indx <- which(is.na.data.frame(final.df))
 final.df.clean <- na.omit(final.df)
 my_clusters <- pam(x = final.df.clean, k)
 my_clusters$clustering
@@ -89,9 +89,9 @@ plot(final.df.clean[,3:4],col=rainbow_hcl(max(my_clusters$clustering))[my_cluste
 points(my_clusters$medoids,pch=19,cex=1.5,col="navyblue")
 ```
 If we isolate just two of the periods, we can get a closer look at how the various securities were grouped.  
-[](\assets\k_medoid.jpeg)  
-And here is a more comprehsive version that graphs based on the Principle Components:  
+![](\assets\k_medoid.jpeg)  
+And here is a more comprehensive version that graphs based on the Principle Components:  
 ```
 fviz_cluster(object = my_clusters[1:10], data = final.df.clean[1:10])
 ```
-[](\assets\clusters.jpeg)
+![]("\assets\clusters.jpeg")
