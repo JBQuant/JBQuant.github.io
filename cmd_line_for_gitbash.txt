@@ -1,0 +1,9 @@
+
+# finding all the updated files
+git add .
+
+# Committing --> insert committ comment
+git commit -m "fixing linkedin link issue"
+
+# pushing changes to github page
+git push https://github.com/JBQuant/JBQuant.github.io.git
