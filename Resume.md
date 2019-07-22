@@ -47,6 +47,7 @@ Python ∙ statistical computations using R ∙ Spark-Scala ∙ MapReduce ∙ we
 #### [RiskSpan](https://riskspan.com/)  
 ##### **Senior Analyst**, Arlington, Virginia
 *June, 2019 – Present*  
+•	Currently working as a Senior Consultant with the Credit Forecast Team at Fannie Mae utilizing major econometric models to predict credit loss and allowance according to the new CECL standards
 
 #### [U.S. Trust, Bank of America](https://www.privatebank.bankofamerica.com/solutions/individuals-families/investment-management.html?cm_mmc=GWIM-USTrust-_-Google-PS-_-Investment_Management-_-Brand_Core_Exact_Sitelinks&gclid=EAIaIQobChMIneqhlraR4wIVQ7nACh1MCAs1EAAYASADEgI1nfD_BwE&gclsrc=aw.ds)  
 ##### **Portfolio Manager Associate**, Richmond, Virginia
@@ -64,13 +65,16 @@ Python ∙ statistical computations using R ∙ Spark-Scala ∙ MapReduce ∙ we
 •	Devised operational risk management methodologies; liaised with senior management to drive standard risk by maintaining database of compliance including Investment Policy Statements
 
 ### Additional Information:  
+
 •	Joseph W. Luter, III School of Business Board of Advisors  
   - *Member -- Present*  
+  
 •	CFA Society of Virginia  
   - *CFA Research Challenge Sponsor for CNU -- 2019*  
+  
 •	Senior Vice-President of Kappa Delta Rho  
   - *November, 2010 – November, 2011*  
-•	North American Inferfraternity Conference’s Chapter of Distinction 2012  
+  - *North American Inferfraternity Conference’s Chapter of Distinction 2012*
 
 
 ##### Find me on:  
