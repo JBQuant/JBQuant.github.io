@@ -97,3 +97,6 @@ And here is a more comprehensive version that graphs based on the Principle Comp
 fviz_cluster(object = my_clusters[1:10], data = final.df.clean[1:10])
 ```
 ![](\assets\clusters.jpeg)
+
+
+**[Download the GitHub Zip File](https://github.com/JBQuant/k_medoid_equity_returns/archive/master.zip)**
