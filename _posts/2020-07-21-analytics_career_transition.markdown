@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Using Predictive Analytics to Manage Diabetes
-date:   2019-07-21 21:31:09 -0400
+title: Transitioning my Career to Data Science & Analytics
+date:   2020-07-22 21:31:09 -0400
 feature_image: "/assets/bridge.jpg"
 categories: jekyll update
 ---
