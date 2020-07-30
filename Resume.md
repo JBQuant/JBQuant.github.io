@@ -23,10 +23,8 @@ Master of Science, Business Analytics, 3.8/4.0
 **Christopher Newport University**, Joseph W. Luter, III School of Business, Newport News, Virginia -- May, 2012  
 Bachelor of Science in Business Administration, Finance; Minor in Communication Studies 
 
-**Maastricht University**, Study abroad program with a focus in International Management -- Summer  2011
-Maastricht, The Netherlands
-
 ### Relevant Data Analysis Projects:  
+**Using AI to estimate Zillow home price value:**   Trained and developed a convolutional neural network using Python & Keras to parse thousands of jpg files and provide a continuous sale price target estimate based on Zillow listing profile  
 **Predictive Analytics to Manage Type I Diabetes:** Gathered over 10,000 hours of my personal health data using a Dexcom CGM and a Fitbit and used the collected data set to predict 
 the occurrence of a low blood glucose readings within a given hour using machine learning algorithms such as Random Forest and Adaptive Boosting by using predictive dependent variables 
 such as hourly activity, steps, and heart rate data   
@@ -36,18 +34,24 @@ including clustering, decision trees, and portfolio optimization to address a bu
 **Kickstarter Project:** Used statistical learning models such as LDA, QDA, Logistic Regression, and Random Forest to predict the success of Kickstarter campaigns and tested the 
 significance of various independent variables
 
+### Technical Skills:  
+Python (packages: Pandas, Numpy, Keras, Scikit-learn - Expert) ∙ statistical computations in R (Expert) ∙ SAS (Novice) ∙ Scala (Novice) ∙ Machine-Learning & AI ∙ Web-scraping (packages: BeautifulSoup, Requests, rvest, - Expert) ∙ SQL (Intermediate) ∙       Text analytics (packages: tm, NLTK - Intermediate) ∙ Alteryx ∙ data visualization in Tableau ∙ Bloomberg ∙ Factset ∙ Github ∙ Microsoft Office Suite programs - advanced understanding of Excel ∙ Hadoop (Novice) ∙ Apache Spark (Novice) ∙
+
 ### Relevant Coursework:  
 Optimization ∙ Machine Learning I & II ∙ Artificial Intelligence ∙ Risk Management ∙ Portfolio Management ∙ Big Data ∙ Data Visualization ∙ Public Speaking ∙ Database Management ∙ Intermediate Corporate Finance ∙ Financial Institutions ∙ Intermediate Probability and Statistics ∙ Principles of Accounting I & II ∙ Software Packages & Business Applications ∙ 
-
-### Technical Skills:  
-Python ∙ statistical computations using R ∙ Spark-Scala ∙ MapReduce ∙ web-scraping ∙ SQL ∙ text analytics using NLTK ∙ Alteryx ∙ data visualization in Tableau ∙ heuristic algorithms ∙ Bloomberg ∙ Factset ∙ all Microsoft Office Suite programs with an advanced understanding of Excel 
 
 ### Experience:
 
 #### [RiskSpan](https://riskspan.com/)  
 ##### **Senior Analyst**, Arlington, Virginia
 *June, 2019 – Present*  
-•	Currently working as a Senior Consultant with the Credit Forecast Team at Fannie Mae utilizing major econometric models to predict credit loss and allowance according to the new CECL standards
+•	Consulted with a large Government Sponsor Enterprise (GSE) Single-Family Credit Forecasting team under the Financial Business Analytics group utilizing major econometric models to predict Credit Loss and Incremental Provision Income Statement line items   
+•	Assist in the implementation and vetting of the methodology, models, and governance for adopting the Allowance forecasting process under CECL accounting standards  
+•	Contribute to the Dodd Frank Act Stress Testing (DFAST) process by running simulation analysis of prescribed scenarios and measure the range of outcomes under economically stressed environments and communicate findings to internal and external stakeholders such as FHFA  
+•	Assess the sensitivity and measure the impact of model inputs to the corporate forecast and communicate insights that will be elevated to executives as high as the Capital Committee and Chief Financial Officer   
+•	Conduct experiments to validate the implementation of parameter improvements for FICO imputation model  
+•	Liaise with the Agile Development team on deployment of business user requirements and conducted User Acceptance Testing (UAT) on implementation of complex Markov and cash flow financial models  
+•	Gradually increased managerial responsibilities by mentoring and coaching less experienced Associate Consultants  
 
 #### [U.S. Trust, Bank of America](https://www.privatebank.bankofamerica.com/solutions/individuals-families/investment-management.html?cm_mmc=GWIM-USTrust-_-Google-PS-_-Investment_Management-_-Brand_Core_Exact_Sitelinks&gclid=EAIaIQobChMIneqhlraR4wIVQ7nACh1MCAs1EAAYASADEgI1nfD_BwE&gclsrc=aw.ds)  
 ##### **Portfolio Manager Associate**, Richmond, Virginia
@@ -66,13 +70,13 @@ Python ∙ statistical computations using R ∙ Spark-Scala ∙ MapReduce ∙ we
 
 ### Additional Information:  
 
-•	Joseph W. Luter, III School of Business Board of Advisors  
+Joseph W. Luter, III School of Business Board of Advisors  
   - *Member -- Present*  
   
-•	CFA Society of Virginia  
+CFA Society of Virginia  
   - *CFA Research Challenge Sponsor for CNU -- 2019*  
   
-•	Senior Vice-President of Kappa Delta Rho  
+Senior Vice-President of Kappa Delta Rho  
   - *November, 2010 – November, 2011*  
   - *North American Inferfraternity Conference’s Chapter of Distinction 2012*
 
